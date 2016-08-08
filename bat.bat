@@ -1,0 +1,1 @@
+E:\mywork\swordweb\trunk\clientTools\split\split.exe E:\mywork\swordweb\trunk\clientTools\split\test.png 256 E:\mywork\swordweb\trunk\clientTools\split\sub
